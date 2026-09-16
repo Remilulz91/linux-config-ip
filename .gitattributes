@@ -1,0 +1,3 @@
+# Les scripts doivent garder des fins de ligne Unix, même depuis Windows
+* text=auto
+*.sh text eol=lf
